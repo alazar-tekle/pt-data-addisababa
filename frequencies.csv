@@ -1,4 +1,4 @@
-ref,from,to,via,intermediates,opening-hours,exceptions,duration,intermediate-durations,frequency
+ref,from,to,via,intermediates,opening_hours,exceptions,duration,intermediate-durations,frequency
 1,Yeka Abado,Megenagna,,,Mo-Su 06:00-22:00,,44,,15
 1,Megenegna,Yeka Abado,,,Mo-Su 06:00-22:00,,44,,15
 4,Saris Abo,Legehar (Lion of Juda),,,Mo-Su 06:00-22:00,,77,,15
