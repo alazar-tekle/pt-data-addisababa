@@ -1,22 +1,22 @@
 ref,from,to,via,intermediates,opening_hours,exceptions,duration,intermediate-durations,frequency
-1,Yeka Abado,Megenagna,,,Mo-Su 06:00-22:00,,44,,15
-1,Megenegna,Yeka Abado,,,Mo-Su 06:00-22:00,,44,,15
-4,Saris Abo,Legehar (Lion of Juda),,,Mo-Su 06:00-22:00,,77,,15
-4,Legehar (Lion of Juda),Saris Abo,,,Mo-Su 06:00-22:00,,77,,15
-9,Piassa Arada,Brass Clinic (Bole),,,Mo-Su 06:00-22:00,,53,,15
-9,Brass Clinic (Bole),Piassa Arada,,,Mo-Su 06:00-22:00,,53,,15
-10,Piassa Arada,Kotebe Teachers College,,,Mo-Su 06:00-22:00,,68,,15
-10,Kotebe Teachers College,Piassa Arada,,,Mo-Su 06:00-22:00,,68,,15
-49,Megenegna,Ayat Chefe Condominium,,,Mo-Su 06:00-22:00,,55,,15
-49,Ayat Chefe Condominium,Megenagna,,,Mo-Su 06:00-22:00,,55,,15
-61,Legehar,Ayat Chefe Condominium,,,Mo-Su 06:00-22:00,,66,,15
-83,6 Kilo,Ayat Chefe Condominium,,,Mo-Su 06:00-22:00,,76,,15
-83,Ayat Chefe Condominium,6 kilo,,,Mo-Su 06:00-22:00,,76,,15
-97,Megenegna,Legedadi Mission,,,Mo-Su 06:00-22:00,,54,,15
-97,Mission Legedadi,Megenagna,,,Mo-Su 06:00-22:00,,54,,15
-101,Megenegna,Aba Kiros Roundabout,,,Mo-Su 06:00-22:00,,47,,15
-101,Aba Kiros Roundabout,Megenagna,,,Mo-Su 06:00-22:00,,47,,15
-106,Bole Arabsa,Megenagna,,,Mo-Su 06:00-22:00,,43,,15
-106,Megenegna,Bole Arabsa,,,Mo-Su 06:00-22:00,,43,,15
-15,Bole Millenium,Sunshine Building,,,Mo-Su 06:00-22:00,,23,,15
-15,Red Terror Memorial,Bole Millenium,,,Mo-Su 06:00-22:00,,23,,15
+1,Yeka Abado,Megenagna,,,,,,,20
+1,Megenegna Terminal,Yeka Abado,,,,,,,20
+4,Saris Abo,Legehar (Lion of Juda),,,,,,,20
+4,Legehar (Lion of Juda),Saris Abo,,,,,,,20
+9,Piassa Arada,Brass Clinic (Bole),,,,,,,20
+9,Brass Clinic (Bole),Piassa Arada,,,,,,,20
+10,Piassa Arada,Kotebe Teachers College,,,,,,,20
+10,Kotebe Teachers College,Piassa Arada,,,,,,,20
+49,Megenegna Terminal,Ayat Chefe Condominium,,,,,,,20
+49,Ayat Chefe Condominium,Megenagna,,,,,,,20
+61,Legehar,Ayat Chefe Condominium,,,,,,,20
+83,6 Kilo,Ayat Chefe Condominium,,,,,,,20
+83,Ayat Chefe Condominium,6 kilo,,,,,,,20
+97,Megenegna,Legedadi Mission,,,,,,,20
+97,Legedadi Mission,Megenagna,,,,,,,20
+101,Megenegna,Aba Kiros Roundabout,,,,,,,20
+101,Aba Kiros Roundabout,Megenagna,,,,,,,20
+106,Bole Arabsa,Megenagna,,,,,,,20
+106,Megenegna,Bole Arabsa,,,,,,,20
+15,Bole Millenium,Sunshine Building,,,,,,,20
+15,Flamingo,Bole Millenium,,,,,,,20
