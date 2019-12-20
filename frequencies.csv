@@ -8,15 +8,15 @@ ref,from,to,via,intermediates,opening_hours,exceptions,duration,intermediate-dur
 10,Piassa Arada,Kotebe Teachers College,,,,,,,20
 10,Kotebe Teachers College,Piassa Arada,,,,,,,20
 49,Megenegna Terminal,Ayat Chefe Condominium,,,,,,,20
-49,Ayat Chefe Condominium,Megenagna,,,,,,,20
+49,Ayat Chefe Condominium,Megenagna Terminal,,,,,,,20
 61,Legehar,Ayat Chefe Condominium,,,,,,,20
 83,6 Kilo,Ayat Chefe Condominium,,,,,,,20
 83,Ayat Chefe Condominium,6 kilo,,,,,,,20
 97,Megenegna,Legedadi Mission,,,,,,,20
-97,Legedadi Mission,Megenagna,,,,,,,20
+97,Legedadi Mission,Megenagna Terminal,,,,,,,20
 101,Megenegna,Aba Kiros Roundabout,,,,,,,20
-101,Aba Kiros Roundabout,Megenagna,,,,,,,20
-106,Bole Arabsa,Megenagna,,,,,,,20
+101,Aba Kiros Roundabout,Megenagna Terminal,,,,,,,20
+106,Bole Arabsa,Megenagna Terminal,,,,,,,20
 106,Megenegna,Bole Arabsa,,,,,,,20
-15,Bole Millenium,Sunshine Building,,,,,,,20
+15,Bole Millenium,Flamingo,,,,,,,20
 15,Flamingo,Bole Millenium,,,,,,,20
