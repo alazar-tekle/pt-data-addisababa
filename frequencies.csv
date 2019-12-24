@@ -1,0 +1,46 @@
+ref,from,to,via,intermediates,opening_hours,exceptions,duration,intermediate_duration,frequency
+D23,Bole Arabsa,Megenagna Terminal,,,Mo-Su 06:00-23:00,,50,,20
+D23,Megenegna Terminal,Bole Arabsa,,,Mo-Su 06:00-23:00,,43,,20
+AB097,Megenegna Terminal,Legedadi Mission,,,Mo-Su 06:00-23:00,,50,,20
+AB097,Legedadi Mission,Megenagna Terminal,,,Mo-Su 06:00-23:00,,47,,20
+AB101,Megenagna Terminal,Aba Kiros Roundabout,,,Mo-Su 06:00-23:00,,46,,20
+AB101,Aba Kiros Roundabout,Megenagna Terminal,,,Mo-Su 06:00-23:00,,38,,20
+AB049,Megenegna Terminal,Ayat Chefe Condominium,,,Mo-Su 06:00-23:00,,55,,20
+AB049,Ayat Chefe Condominium,Megenagna,,,Mo-Su 06:00-23:00,,42,,20
+AB083,6 Kilo,Ayat Chefe Condominium,,,Mo-Su 06:00-23:00,,76,,20
+AB083,Ayat Chefe Condominium,6 kilo,,,Mo-Su 06:00-23:00,,61,,20
+AB106,Bole Arabsa,Megenagna,,,Mo-Su 06:00-23:00,,50,,20
+AB106,Megenegna Terminal,Bole Arabsa,,,Mo-Su 06:00-23:00,,43,,20
+AB061,Legehar (Old Train Station),Ayat Chefe Condominium,,,Mo-Su 06:00-23:00,,67,,20
+AB010,Piassa Arada,Kotebe Teachers College,,,Mo-Su 06:00-23:00,,68,,20
+AB010,Kotebe Teachers College,Piassa Arada,,,Mo-Su 06:00-23:00,,48,,20
+AB001,Yeka Abado,Megenagna,,,Mo-Su 06:00-23:00,,55,,20
+AB001,Megenegna,Yeka Abado,,,Mo-Su 06:00-23:00,,45,,20
+AB009,Piassa Arada,Brass Clinic (Bole),,,Mo-Su 06:00-23:00,,53,,20
+AB009,Brass Clinic (Bole),Piassa Arada,,,Mo-Su 06:00-23:00,,46,,20
+SH015,Bole Millenium,4 kilo,,,Mo-Su 06:00-23:00,,34,,20
+SH015,4 Kilo,Bole Millenium,,,Mo-Su 06:00-23:00,,30,,20
+SH027,Shero Meda,Bole Millenium,,,Mo-Su 06:00-23:00,,61,,20
+SH027,Bole Millenium,Shero Meda,,,Mo-Su 06:00-23:00,,49,,20
+SH028,Shero Meda,Abo Junction,,,Mo-Su 06:00-23:00,,55,,20
+SH028,Abo Junction,Shero Meda,,,Mo-Su 06:00-23:00,,75,,20
+SH016,Piassa Arada,Abo Junction,,,Mo-Su 06:00-23:00,,73,,20
+SH016,Abo Junction,Menelik II Square,,,Mo-Su 06:00-23:00,,73,,20
+SH004,Yeka Abado G13,Megenagna,,,Mo-Su 06:00-23:00,,31,,20
+SH004,Megenagna,Yeka Abado G13,,,Mo-Su 06:00-23:00,,31,,20
+SH010,Alem Bank,Autobis Tera (2),,,Mo-Su 06:00-23:00,,29,,20
+SH010,Autobis Tera (2),Alem Bank,,,Mo-Su 06:00-23:00,,25,,20
+SH001,Haile Garment,Mexico,,,Mo-Su 06:00-23:00,,36,,20
+SH001,Mexico,Haile Garment,,,Mo-Su 06:00-23:00,,44,,20
+SH040,Kara Kore,Autobis Tera (1),,,Mo-Su 06:00-23:00,,49,,20
+SH040,Autobis Tera (1),Kara Kore,,,Mo-Su 06:00-23:00,,39,,20
+D26,Yerer Goro,Megenagna,,,Mo-Su 06:00-23:00,,19,,20
+D26,Megenagna,Yerer Goro,,,Mo-Su 06:00-23:00,,16,,20
+A24,Megenagna (Bethelhem Bldg.),Mexico,,,Mo-Su 06:00-23:00,,19,,20
+A24,Mexico,Megenagna (CBE Bank),,,Mo-Su 06:00-23:00,,41,,20
+C15,Mebrat Condominium,Menelik II Square,,,Mo-Su 06:00-23:00,,50,,20
+C15,Menelik II Square,Mebrat Condominium,,,Mo-Su 06:00-23:00,,79,,20
+B22,Sansusi,Autobis Tera,,,Mo-Su 06:00-23:00,,35,,20
+B22,Autobis Tera,Sunsusi,,,Mo-Su 06:00-23:00,,31,,20
+A08,Beret Dildye (Gurara),4 Kilo,,,Mo-Su 06:00-23:00,,22,,20
+A08,4 Kilo,Gurara (Ferensay),,,Mo-Su 06:00-23:00,,15,,20
